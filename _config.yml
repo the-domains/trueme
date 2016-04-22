@@ -2,6 +2,7 @@ name: trueme
 favicon: null
 layout_spectrum: 0.5534917188342661
 typography_spectrum: 0.3995061255991459
+title: TrueMe App
 cta:
   domain: null
   bucket: null
