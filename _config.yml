@@ -1,0 +1,28 @@
+name: trueme
+favicon: null
+layout_spectrum: 0.5534917188342661
+typography_spectrum: 0.3995061255991459
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2385233948007226
+  lightness: 0.4475942235440016
+  saturation: 0.042269422905519605
+  rhythmicContrast: 0.194371776888147
+purpose: []
